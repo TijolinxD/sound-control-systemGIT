@@ -30,4 +30,4 @@ Ele foi feito complemante por mim então ele está cheio de erros, me ajudem com
 
 ## Demonstração
 
-(Aqui é um ótimo lugar para colocar um GIF ou um vídeo curto do programa funcionando!)
+(Logo postarei um link com um vídeo ou gif mostrando umas ações)
